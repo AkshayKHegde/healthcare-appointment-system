@@ -1,0 +1,13 @@
+# Node
+node_modules/
+
+# Java / Maven
+target/
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE
+.idea/
+*.iml
